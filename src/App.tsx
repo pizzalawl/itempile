@@ -25,6 +25,7 @@ function App() {
   return (
     <>
       <Title name="itempile"/>
+      <div className='text-center absolute left-[93vw] bottom-[86vh]'><Button label="Login"/></div>
       <div className='relative top-5'>
         <div className='text-center relative top-10'><Button label="Games🎮"/></div>
         <div className='text-center relative top-14'><Button label="Shop🪙"/></div>
